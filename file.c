@@ -33,3 +33,7 @@ int main() {
     printf("Thank you");
     return 0;
 }
+
+//syed bilal Ahmed 
+//Father name : Syed sharafuddin
+//roll no : 20
